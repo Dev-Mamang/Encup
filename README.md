@@ -1,2 +1,1 @@
-# Encup
-Yuhuuu
+# Discord-Music-Bot-tutorial
